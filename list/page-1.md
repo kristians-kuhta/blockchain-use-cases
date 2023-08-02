@@ -2,7 +2,7 @@
 
 | Index | Use case |
 | ----- | -------- |
-| 0 | Peer-to-peer car pooling |
+| 0 | [Peer-to-peer car pooling](/use-cases/0.md) |
 | 1 | Crowdfunding for startups |
 | 2 | Tracking of food source |
 | 3 | Tokenization of real estate |
