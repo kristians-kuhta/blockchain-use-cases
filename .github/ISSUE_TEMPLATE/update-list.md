@@ -15,7 +15,7 @@ assignees: kristians-kuhta
 ### Use Case - Title or URL (Required)
 
 Provide the title of the blockchain use case or URL to the existing use case, if suggesting an update.
-This should be short (70 characters max.), but concise title for the use case.
+This should be short (90 characters max.), but concise title for the use case.
 Take inspiration from existing titles when coming up with this title.
 
 ### Use Case - Description (Optional)
