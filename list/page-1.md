@@ -60,3 +60,5 @@
 | 55 | Renting cloud video encoding, storage, and distribution services via web3 |
 | 56 | Gaming asset ownership |
 | 57 | Storing government public records on-chain |
+| 58 | [Digitizing telecom assets into a shared pool](/use-cases/58.md) |
+| 59 | Telcom: automate processes, such as billing, roaming, and supply chain management |
