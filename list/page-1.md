@@ -62,3 +62,4 @@
 | 57 | Storing government public records on-chain |
 | 58 | [Digitizing telecom assets into a shared pool](/use-cases/58.md) |
 | 59 | Telcom: automate processes, such as billing, roaming, and supply chain management |
+| 60 | Cross-Chain IoT Data Marketplaces |
