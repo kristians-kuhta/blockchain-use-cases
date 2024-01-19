@@ -64,3 +64,4 @@
 | 59 | Telcom: automate processes, such as billing, roaming, and supply chain management |
 | 60 | Cross-Chain IoT Data Marketplaces |
 | 61 | Fully decentralized platform for 1:1 consultations |
+| 62 | Decentralized Email Service |
